@@ -116,9 +116,11 @@
             player[4, 2] = "A";
             tileItem['p'] = player;
         }
+
+
         static void detectCollision(int addX, int addY)
         {
-  
+
         }
 
         static void LogicMap()
