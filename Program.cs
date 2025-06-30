@@ -120,7 +120,6 @@
 
         static void detectCollision(int addX, int addY)
         {
-
         }
 
         static void LogicMap()
